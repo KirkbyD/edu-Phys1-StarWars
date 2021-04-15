@@ -1,0 +1,6 @@
+moveto(
+	setsubsystem("models"),
+	settarget("DESTROY"),
+	setendposition(4, 150.0, 100.0, 50.0, 1.0),
+	setduration(1000.0)
+);

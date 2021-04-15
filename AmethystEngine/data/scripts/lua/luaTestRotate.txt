@@ -1,0 +1,6 @@
+rotateto(
+	setsubsystem("models"),
+	settarget("DESTROY"),
+	setendorientation(90.0, 45.0, 135.0),
+	setduration(10.0)
+);
